@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/dandrade/Descargas/WikitudeSDK_Android_5-2-0_2016-07-11_16-52-11/Examples/SDKExamples/wikitude-sdk-samples/build/intermediates/res/merged/debug/layout/sample_cam.xml",
+        "source": "/home/dandrade/Descargas/WikitudeSDK_Android_5-2-0_2016-07-11_16-52-11/Examples/SDKExamples/wikitude-sdk-samples/src/main/res/layout/sample_cam.xml"
+    },
+    {
+        "merged": "/home/dandrade/Descargas/WikitudeSDK_Android_5-2-0_2016-07-11_16-52-11/Examples/SDKExamples/wikitude-sdk-samples/build/intermediates/res/merged/debug/layout/list_sample.xml",
+        "source": "/home/dandrade/Descargas/WikitudeSDK_Android_5-2-0_2016-07-11_16-52-11/Examples/SDKExamples/wikitude-sdk-samples/src/main/res/layout/list_sample.xml"
+    },
+    {
+        "merged": "/home/dandrade/Descargas/WikitudeSDK_Android_5-2-0_2016-07-11_16-52-11/Examples/SDKExamples/wikitude-sdk-samples/build/intermediates/res/merged/debug/layout/list_startscreen.xml",
+        "source": "/home/dandrade/Descargas/WikitudeSDK_Android_5-2-0_2016-07-11_16-52-11/Examples/SDKExamples/wikitude-sdk-samples/src/main/res/layout/list_startscreen.xml"
+    },
+    {
+        "merged": "/home/dandrade/Descargas/WikitudeSDK_Android_5-2-0_2016-07-11_16-52-11/Examples/SDKExamples/wikitude-sdk-samples/build/intermediates/res/merged/debug/layout/sample_poidetail.xml",
+        "source": "/home/dandrade/Descargas/WikitudeSDK_Android_5-2-0_2016-07-11_16-52-11/Examples/SDKExamples/wikitude-sdk-samples/src/main/res/layout/sample_poidetail.xml"
+    },
+    {
+        "merged": "/home/dandrade/Descargas/WikitudeSDK_Android_5-2-0_2016-07-11_16-52-11/Examples/SDKExamples/wikitude-sdk-samples/build/intermediates/res/merged/debug/layout/sample_cam_fragment_main.xml",
+        "source": "/home/dandrade/Descargas/WikitudeSDK_Android_5-2-0_2016-07-11_16-52-11/Examples/SDKExamples/wikitude-sdk-samples/src/main/res/layout/sample_cam_fragment_main.xml"
+    },
+    {
+        "merged": "/home/dandrade/Descargas/WikitudeSDK_Android_5-2-0_2016-07-11_16-52-11/Examples/SDKExamples/wikitude-sdk-samples/build/intermediates/res/merged/debug/layout/urllauncher_main.xml",
+        "source": "/home/dandrade/Descargas/WikitudeSDK_Android_5-2-0_2016-07-11_16-52-11/Examples/SDKExamples/wikitude-sdk-samples/src/main/res/layout/urllauncher_main.xml"
+    },
+    {
+        "merged": "/home/dandrade/Descargas/WikitudeSDK_Android_5-2-0_2016-07-11_16-52-11/Examples/SDKExamples/wikitude-sdk-samples/build/intermediates/res/merged/debug/layout/sample_1.xml",
+        "source": "/home/dandrade/Descargas/WikitudeSDK_Android_5-2-0_2016-07-11_16-52-11/Examples/SDKExamples/wikitude-sdk-samples/src/main/res/layout/sample_1.xml"
+    }
+]

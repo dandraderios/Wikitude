@@ -1,0 +1,28 @@
+[
+    {
+        "outputFile": "/home/dandrade/Descargas/WikitudeSDK_Android_5-2-0_2016-07-11_16-52-11/Examples/SDKExamples/wikitude-sdk-samples/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 201
+                },
+                "from": {
+                    "file": "/home/dandrade/Descargas/WikitudeSDK_Android_5-2-0_2016-07-11_16-52-11/Examples/SDKExamples/wikitude-sdk-samples/src/main/res/values-v14/styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 220,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 366
+                    }
+                }
+            }
+        ]
+    }
+]
